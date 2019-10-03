@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# CST Seminar Demo - Urban Ricktionary
+This project is intended to showcase basic functionality of React to second year CST Students at Saskatchewan Polytechnic.
+
 
 ## Available Scripts
 
